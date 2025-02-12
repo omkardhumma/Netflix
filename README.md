@@ -1,3 +1,3 @@
 # Netflix Analysis
 
-![Netflix logo]()
+![Netflix logo](https://github.com/omkardhumma/Netflix/blob/master/GH1.jpg)
