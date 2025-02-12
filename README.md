@@ -1,1 +1,3 @@
-# Netflix. Tudum
+# Netflix Analysis
+
+![Netflix logo]()
